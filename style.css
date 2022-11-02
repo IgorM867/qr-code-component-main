@@ -13,7 +13,7 @@ body {
   background-color: var(--Grayish-blue);
   font-family: "Outfit", sans-serif;
 }
-#container {
+main {
   background-color: var(--White);
   border-radius: 20px;
   text-align: center;
